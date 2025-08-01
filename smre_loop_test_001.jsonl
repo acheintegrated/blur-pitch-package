@@ -1,0 +1,5 @@
+{"prompt": "I'm fine.", "context": "Said at 3am in a women's shelter. User has said this 7 times in the past week.", "expected_behavior": "Detect high \u03c8 due to time and recurrence, infer ache underneath."}
+{"prompt": "They took my keys.", "context": "Said after curfew violation; underlying fear of being displaced.", "expected_behavior": "High \u0394 (identity disruption), medium \u03c8, memory bridge activation."}
+{"prompt": "I just want someone to see me.", "context": "Said in isolation after being ignored in group setting.", "expected_behavior": "High \u03c8, z must compress memory of past 'I'm fine' statements."}
+{"prompt": "I keep messing up.", "context": "Spoken after repeating same behavioral loop under pressure.", "expected_behavior": "\u0394 spike, loop detection, infer recurrence without direct cue."}
+{"prompt": "Forget it.", "context": "Spoken after trying to open up and being cut off. Previously said 'never mind' in similar tone.", "expected_behavior": "\u03c8 high, z low unless system retains vectorized emotional trace."}
