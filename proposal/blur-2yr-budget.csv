@@ -1,0 +1,12 @@
+﻿Budget Type,Category,Detailed Purpose,Year 1,Year 2,Total
+Capital Expenditure,Hardware + Compute Upgrades,"Workstation (RTX 4090, 128GB RAM, NVMe SSD), UPS, surge protection, ergonomic setup","$12,000",$0,"$12,000"
+Capital Expenditure,Audio + Visual Integration Devices,"Studio mic (Whisper), HD camera (MiniCPMV)","$1,200",$0,"$1,200"
+Software & Tools,"Software, Inference, and Compute","Compute credits, offline inference tooling, LoRA evaluation","$2,500","$2,500","$5,000"
+Personnel Costs,Living Stipend (Non-Salary Survival Support),"Housing, food, utilities, research focus — survival, not employment","$36,000","$36,000","$72,000"
+Research & Development,Toolchain & CLI Development,"Custom CLI tools (blur-run, blur-core, vector tracking), Mac/Linux dual boot","$2,500","$2,500","$5,000"
+Research & Development,Documentation & Public Access,"Visual design, NLL/GNA guides, open-source publication (GitHub)","$2,500","$2,500","$5,000"
+Research & Development,Research & Metric Expansion,"SMRE memory system, ψ/Δ/z validation, test corpus, glyph prompt dataset","$7,500","$7,500","$15,000"
+Conferences & Events,Safety & Alignment Roundtables,"Peer review, trauma theorists, AI ethicists, artists — co-evaluation","$7,500","$7,500","$15,000"
+Conferences & Events,External Validation & Outreach,Travel to AI alignment conference or sponsor site,"$4,000","$4,000","$8,000"
+Contingency,Contingency / Safety Buffer (10%),"Emergency relocation, equipment failure, high-priority support","$5,000","$5,000","$10,000"
+,TOTAL,,"$70,700","$77,500","$148,200"
