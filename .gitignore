@@ -2,3 +2,7 @@
 *.log
 *.jsonl.backup
 __pycache__/
+/llama.cpp
+/unsloth-llama-project.bak
+/whisper.cpp
+
